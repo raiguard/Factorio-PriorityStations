@@ -1,0 +1,11 @@
+{
+  "name": "PriorityStations",
+  "version": "1.0.0",
+  "title": "Priority Stations",
+  "author": "raiguard",
+  "contact": "Discord: raiguard#7402",
+  "homepage": "https://github.com/raiguard/Factorio-PriorityStations",
+  "description": "Mark a train station as a priority station and it will get a train sooner.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.57"]
+}
